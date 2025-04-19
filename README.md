@@ -27,7 +27,10 @@ Explore a decade of storm events in St. Louis County through interactive visuali
 
 📁 [Project Repository](https://github.com/Kingserb34/stl-storm-analysis)
 
-![Storm Dashboard Screenshot](storm_dashboard.jpeg)
+<p align="center">
+  <img src="storm_dashboard.jpeg" width="360">
+</p>
+
 
 ### 🏈 **Super Bowl Analysis**
 🔍 Analyzing all Super Bowls from **1967 to 2020** using SQL.  

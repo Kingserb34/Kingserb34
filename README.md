@@ -14,11 +14,21 @@
 ## 🛠️ Skills
 - SQL (SQLite, PostgreSQL)
 - Data Cleaning & Analysis
-- Data Visualization (Tableau - Coming Soon!)
+- Data Visualization (Tableau)
 
 ---
 
 ## 📂 Featured Projects
+## 🌪️ St. Louis County Storm Analysis (2015–2024)
+
+Explore a decade of storm events in St. Louis County through interactive visualizations created with Tableau.
+
+🔗 [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/benjamin.kovacevich/viz/10YearsofStormEventsinSt_Louis/Story1)
+
+📁 [Project Repository](https://github.com/Kingserb34/stl-storm-analysis)
+
+![Dashboard Screenshot](storm_dashboard.jpeg)
+
 ### 🏈 **Super Bowl Analysis**
 🔍 Analyzing all Super Bowls from **1967 to 2020** using SQL.  
 📊 Key insights include **top-winning teams, MVP stats, and scoring trends**.  

@@ -14,7 +14,7 @@
 ## 🛠️ Skills
 - SQL (SQLite, PostgreSQL)
 - Data Cleaning & Analysis
-- Data Visualization (Tableau)
+- Data Visualization (Tableau & Power BI)
 
 ---
 
@@ -30,7 +30,7 @@ An interactive Power BI report that analyzes sales, profit, and product performa
 🔹 Key insights panel for business recommendations
 
 🔗 [View the Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=5d2a5f49-d4d2-4ef2-ae55-bf878d855aff&autoAuth=true&ctid=dfe41fd7-3fc6-45b8-8ddb-5a283993e43a)  
-📁 [Project Repository](https://github.com/Kingserb34/sales-profitability-dashboard-power-bi)
+📁 [Project Repository](https://github.com/Kingserb34/sales-profitability-dashboard-power-bi-)
 
 ## 🌪️ St. Louis County Storm Analysis (2015–2024)
 

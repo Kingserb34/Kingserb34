@@ -1,13 +1,13 @@
 # 👋 Hello there, I'm Ben Kovacevich!
 
-🚀 **Aspiring Data Analyst** | 📊 SQL | 📈 Tableau | 🔍 Data Insights
+🚀 **Aspiring Data Analyst** | 📊 SQL | 📈 Tableau & Power BI | 🔍 Data Insights
 
 ---
 
 ## 🔹 About Me
-- 🎯 Currently learning **SQL** to advance my data analytics skills.
-- 📚 Working on SQL projects like **Super Bowl Analysis** & **Movie Stars Database** & much more.
-- 🔜 Just started to learn **Tableau** to create data visualizations.
+- 🎯 Currently an Insurance Agent for Country Financial, wanting to transition into the data analystics/intelligence world.
+- 📚 Always working on new projects ---> Check out my repositories.
+- 🔜 Always learning more, always honing my craft, Python up next.
 
 ---
 

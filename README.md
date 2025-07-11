@@ -1,25 +1,41 @@
 # 👋 Hello there, I'm Ben Kovacevich!
 
-🚀 **Aspiring Data Analyst** | 📊 SQL | 📈 Tableau & Power BI | 🔍 Data Insights
+🚀 **Aspiring Data Analyst** | 📊 SQL | 📈 Tableau & Power BI | 🔍 Excel
 
 ---
 
 ## 🔹 About Me
 - 🎯 Currently an Insurance Agent for Country Financial, wanting to transition into the data analystics/intelligence world.
 - 📚 Always working on new projects ---> Check out my repositories.
-- 🔜 Always learning more, always honing my craft, Python up next.
+- 🔜 Always learning more, always honing my craft, R up next.
 
 ---
 
 ## 🛠️ Skills
 - SQL (SQLite, PostgreSQL)
-- Data Cleaning & Analysis
+- Data Cleaning & Analysis (Excel & R)
 - Data Visualization (Tableau & Power BI)
 
 ---
 
 ## 📂 Featured Projects
-## 📈 Latest Project: Sales & Profitability Dashboard (Power BI)
+## 📈 Featured Project: Customer Churn Analysis (Google Capstone)
+
+This project simulates a real-world scenario where a subscription-based fitness app aims to reduce customer churn using data analysis.
+
+🔹 Built as part of the **Google Data Analytics Certificate**  
+🔹 Tools used: Excel, Tableau, PowerPoint  
+🔹 Key insights:
+- Users with <1 workout/week churn at **71%**
+- Inactive users churn at **70%**
+- Monthly subscribers churn slightly more than annual
+
+📊 **[View the Project Repository](https://github.com/Kingserb34/churn-analysis-case-study)**  
+📥 **[Download the Final Presentation](https://github.com/Kingserb34/churn-analysis-case-study/blob/main/Churn_analysis.pdf)**  
+🌐 **[Tableau Dashboard (Interactive)](https://public.tableau.com/app/profile/benjamin.kovacevich/viz/ChurnAnalysisforaSubscriptionBasedFitnessApp/Dashboard1)**  
+
+
+## Sales & Profitability Dashboard (Power BI)
 
 An interactive Power BI report that analyzes sales, profit, and product performance using Microsoft’s Financial Sample dataset.
 
